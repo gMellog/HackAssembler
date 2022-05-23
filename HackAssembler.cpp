@@ -1,7 +1,4 @@
-
-
 #include "HackAssembler.h"
-
 
 HackAssembler::HackAssembler()
 :
